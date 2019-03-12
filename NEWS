@@ -1,0 +1,11 @@
+*************************************
+*				    *
+*	Changes in gamlss.inf	    *
+*				    *
+*************************************
+
+===============
+version 1.0-1
+=============== 
+* This is essentially the same version as the initial one except that the vignettes have been removed from the package because an error check was unresolved. The vignettes can be found at https://www.gamlss.com/books-articles/ 
+
